@@ -302,6 +302,7 @@ body {
 
 .slider {
   height: 485px;
+  margin-top: -65px;
   border-radius: 15px;
 }
 
@@ -327,6 +328,9 @@ body {
   .image-17 {
     margin-top: -25px;
   }
+  .slider {
+    height: 240px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -335,6 +339,9 @@ body {
   }
   .image-18 {
     margin-top: -40px;
+  }
+  .slider {
+    height: 160px;
   }
 }
 
@@ -361,6 +368,12 @@ body {
   }
   .image-21 {
     margin-top: -56px;
+  }
+  .slider {
+    height: 110px;
+  }
+  .right-arrow {
+    margin-left: auto;
   }
 }
 
