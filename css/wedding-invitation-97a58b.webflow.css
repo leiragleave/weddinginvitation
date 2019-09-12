@@ -256,8 +256,8 @@ body {
 }
 
 .image-17 {
-  margin-top: -65px;
-  margin-left: 10px;
+  margin-top: 0px;
+  margin-left: 0px;
   border-radius: 9px;
 }
 
@@ -284,9 +284,37 @@ body {
 }
 
 .image-23 {
-  margin-top: 60px;
-  margin-left: 10px;
+  margin-top: 0px;
+  margin-left: 0px;
   border-radius: 9px;
+}
+
+.image-24 {
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+.slide-nav {
+  margin-top: 0px;
+  margin-bottom: -120px;
+  opacity: 0;
+}
+
+.slider {
+  height: 485px;
+  border-radius: 15px;
+}
+
+.icon {
+  opacity: 0.8;
+}
+
+.icon-2 {
+  opacity: 0.8;
+}
+
+.image-25 {
+  margin-left: 10px;
 }
 
 @media (max-width: 991px) {
