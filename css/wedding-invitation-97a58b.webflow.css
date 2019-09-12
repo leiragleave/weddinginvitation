@@ -342,6 +342,9 @@ body {
   .slider {
     height: 240px;
   }
+  .image-27 {
+    margin-top: 40px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -353,6 +356,9 @@ body {
   }
   .slider {
     height: 160px;
+  }
+  .image-27 {
+    margin-top: 39px;
   }
 }
 
@@ -388,6 +394,9 @@ body {
   }
   .right-arrow {
     margin-left: auto;
+  }
+  .image-27 {
+    margin-top: 29px;
   }
 }
 
